@@ -1,0 +1,31 @@
+.inf {
+  border: 5px solid rgb(80, 147, 225);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  text-align: center;
+  display: block;
+  border-radius: 10px;
+}
+
+.header {
+  background-color: rgb(20, 35, 72);
+  top: 0px;
+  left: 0px;
+  text-align: justify;
+}
+
+p {
+  color: white;
+}
+
+.info {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  gap: 10px;
+  text-align: center;
+}
+a {
+  color: crimson;
+}
